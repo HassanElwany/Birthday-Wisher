@@ -4,7 +4,7 @@ import os
 import datetime as dt
 import random
 import pandas as pd
-import os
+
 
 load_dotenv()
 
